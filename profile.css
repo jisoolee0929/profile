@@ -1,0 +1,30 @@
+p h1{
+float:left;
+width: 20px;
+height: 20px;
+border: solid 1px blue;
+padding: 20px;
+margin: 70px;
+font-style: oblique;
+}
+
+ol li h2{
+  color: violet;
+  width: 10px;
+  height: 10px;
+  margin: 10px;
+}
+
+ol li p h2{
+  color: violet;
+  width: 10px;
+  height: 10px;
+  margin: 10px;
+}
+
+ol li p h3{
+  color: pink;
+  width: 7px;
+  height: 7px;
+  margin: 7px;
+}
